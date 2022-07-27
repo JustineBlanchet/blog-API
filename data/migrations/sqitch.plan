@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=oblog
+
+init-db 2022-07-18T07:26:54Z Justine Blanchet <blanchet.justine@laposte.net> # DB initialisation
+
